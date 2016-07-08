@@ -4,7 +4,9 @@
     "repositoryName": "myhubpress",
     "branch": "gh-pages"
   },
-  "site": {},
+  "site": {
+    "postsPerPage": "50"
+  },
   "socialnetwork": {},
   "theme": {
     "name": "casper"
